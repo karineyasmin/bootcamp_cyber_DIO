@@ -1,5 +1,5 @@
 ### Este projeto contém 3 arquivos. 
-### Um arquivo chamado teste em formato *".txt"*, e dois arquivos em formato *".py"*, sendo um encriptador e outro um desincriptador.
+### Um arquivo chamado teste em formato *“.txt”*, e dois arquivos em formato *“.py”*, sendo um encriptador e outro um desencriptador.
 
 ## ***Funcionamento:***
 
